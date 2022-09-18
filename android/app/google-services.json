@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "637610108991",
+    "project_id": "moengagereactnativesampleapp",
+    "storage_bucket": "moengagereactnativesampleapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:637610108991:android:df898e7fbc1f74392eb08a",
+        "android_client_info": {
+          "package_name": "com.moengagernsample"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "637610108991-7b12k5m7qk814uo1ehqdi5oaihd459ic.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDIxhpLUaTkWnUNPDqHHRgPYEQ1aMitJV8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "637610108991-7b12k5m7qk814uo1ehqdi5oaihd459ic.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
